@@ -108,6 +108,7 @@ input{
 }
 
 #ownImage{
+  clear: both;
   opacity: 0.0;
 }
 .pictureBox{
